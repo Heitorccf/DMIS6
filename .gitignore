@@ -1,0 +1,17 @@
+.project
+.classpath
+.settings/
+bin/
+build/
+target/
+.gradle/
+build/
+*.iml
+.idea/
+*.log
+*.tmp
+*.bak
+*.swp
+.vscode/
+*.launch
+.metadata/
